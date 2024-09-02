@@ -3,6 +3,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsyun0571)](https://solved.ac/bsyun0571/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsyun0571)](https://github.com/bsyun0571/github-readme-stats)
+
+
 <!--
 **bsyun0571/bsyun0571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
